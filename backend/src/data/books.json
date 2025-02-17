@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Knjiga ",
+    "author": "Autor",
+    "year": 2025,
+    "genre": "Komedija"
+  },
+  {
+    "title": "Na Drini ćuprija",
+    "author": "Ivo Andrić",
+    "year": 1945,
+    "genre": "Istorijski roman",
+    "id": 2
+  },
+  {
+    "title": "Seobe",
+    "author": "Miloš Crnjanski",
+    "year": 1929,
+    "genre": "Roman",
+    "id": 3
+  },
+  {
+    "title": "Koreni",
+    "author": "Dobrica Ćosić",
+    "year": 1954,
+    "genre": "Roman",
+    "id": 4
+  }
+]
